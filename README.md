@@ -15,9 +15,7 @@
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
 
 
