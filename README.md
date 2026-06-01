@@ -7,7 +7,7 @@
 - 👨‍💻 Actualmente curso el Bootcamp en Data Anlyst.
 - 📚 Tambien manejo programas como ArcGIS :earth_americas: 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: Soy ingeniera Ambiental, Saxofonista y me gusta el Deporte.
+- ⚡ Fun fact: Soy Ingeniera Ambiental, Saxofonista y me gusta el Deporte :voley_ball: 
 
 
 ---
