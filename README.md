@@ -1,6 +1,6 @@
 # Hi there, I'm Astrid - <img width="30px" />
 
-<img align="right" alt="GIF" height="160px" src="https://www.pinterest.com/pin/483855553719702814/" />
+<img align="right" alt="GIF" height="160px" src="https://media.tenor.com/7HCzPzYXAFEAAAAM/using-the-computer-debbie-harper.gif" />
 
 ## Soy estudiante de análisis de datos!
 
