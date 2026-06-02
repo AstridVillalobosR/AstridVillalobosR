@@ -27,4 +27,4 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="http://www.linkedin.com/in/astridvillalobosr"
+http://www.linkedin.com/in/astridvillalobosr
