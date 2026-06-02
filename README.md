@@ -23,6 +23,5 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="http://www.linkedin.com/in/astridvillalobosr"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-
-
+<a href="http://www.linkedin.com/in/astridvillalobosr"><img src="http://www.linkedin.com/in/astridvillalobosr"
 
